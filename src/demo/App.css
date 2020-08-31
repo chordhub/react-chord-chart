@@ -1,0 +1,12 @@
+.app {
+}
+
+.app__container {
+    max-width: 600px;
+    margin: 16px auto;
+}
+
+.app__input-form {
+    margin-bottom: 24px;
+}
+
